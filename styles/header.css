@@ -1,9 +1,9 @@
-.cabeçalho__menu-hamburguer{
+.cabeçalho__menu-hamburguer {
     width: 24px;
     height: 24;
     background-image: url("../img/menu.svg");
 }
 
-.cabeçalho{
+.cabeçalho {
     background-color: var(--branco);
 }
